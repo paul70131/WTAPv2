@@ -1,0 +1,16 @@
+[
+{
+  "modid": "WTAPv2",
+  "name": "WTAPv2",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Paul70131",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,42 @@
+{
+    "keepsprint" : {
+        "reducer": 90,
+        "keybind": 23242424
+    },
+    "reach" : {
+        "reach": 3.10,
+        "comboreach": 3.15,
+        "combotimer": 300,
+        "combomode": 0,
+        "keybind": 23252423
+    },
+    "wtap" : {
+        "stap": 1,
+        "distance": 3,
+        "duration": 120,
+        "interval": 240,
+        "checkhurt": 1,
+        "keybind": 242423242
+    },
+    "triggerbot": {
+        "delay": 80,
+        "firsthitdelay": 20,
+        "delayfirsthit": 1,
+        "keybind" : 423232523
+    },
+    "velocity": {
+        "reducer": 90,
+        "keybind" : 3490349294
+    },
+    "antizitter": {
+      "slowdown": 80,
+      "keybind" : 3493041932
+    },
+    "hitbox": {
+      "multiplier": 1.5,
+      "keybind" : 490483194
+    },
+    "modulelist": {
+      "keybind": 438523957
+    }
+}
